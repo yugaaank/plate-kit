@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>app/main.qml</file>
+        <file>PlateKit/qmldir</file>
+        <file>PlateKit/Appearance.qml</file>
+        <file>PlateKit/Plate.qml</file>
+        <file>PlateKit/Config.qml</file>
+        <file>PlateKit/Fonts.qml</file>
+        <file>PlateKit/PlateThemeLoader.qml</file>
+        <file>PlateKit/kit_symbols.js</file>
+        <file>PlateKit/ColorUtils.qml</file>
+        <file>PlateKit/DateUtils.qml</file>
+        <file>PlateKit/FileUtils.qml</file>
+        <file>PlateKit/NumberUtils.qml</file>
+        <file>PlateKit/StringUtils.qml</file>
+        <file>PlateKit/Anim.qml</file>
+        <file>PlateKit/DialogButton.qml</file>
+        <file>PlateKit/GroupButton.qml</file>
+        <file>PlateKit/MaterialSymbol.qml</file>
+        <file>PlateKit/NoticeBox.qml</file>
+        <file>PlateKit/Pill.qml</file>
+        <file>PlateKit/PointingHandInteraction.qml</file>
+        <file>PlateKit/RippleButton.qml</file>
+        <file>PlateKit/RippleButtonWithIcon.qml</file>
+        <file>PlateKit/StateLayer.qml</file>
+        <file>PlateKit/StyledProgressBar.qml</file>
+        <file>PlateKit/StyledSwitch.qml</file>
+        <file>PlateKit/StyledText.qml</file>
+        <file>PlateKit/ToolbarTabButton.qml</file>
+        <file>PlateKit/WavyLine.qml</file>
+        <file>PlateKit/fonts/KitSymbols.ttf</file>
+        <file>PlateKit/fonts/KitSymbolsFill.ttf</file>
+        <file>PlateKit/fonts/MaterialSymbolsRounded.ttf</file>
+    </qresource>
+</RCC>

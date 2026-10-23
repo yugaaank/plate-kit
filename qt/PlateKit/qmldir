@@ -1,0 +1,28 @@
+module PlateKit
+
+singleton Appearance 1.0 Appearance.qml
+singleton Plate 1.0 Plate.qml
+singleton Config 1.0 Config.qml
+singleton Fonts 1.0 Fonts.qml
+singleton PlateThemeLoader 1.0 PlateThemeLoader.qml
+singleton ColorUtils 1.0 ColorUtils.qml
+singleton DateUtils 1.0 DateUtils.qml
+singleton FileUtils 1.0 FileUtils.qml
+singleton NumberUtils 1.0 NumberUtils.qml
+singleton StringUtils 1.0 StringUtils.qml
+
+Anim 1.0 Anim.qml
+DialogButton 1.0 DialogButton.qml
+GroupButton 1.0 GroupButton.qml
+MaterialSymbol 1.0 MaterialSymbol.qml
+NoticeBox 1.0 NoticeBox.qml
+Pill 1.0 Pill.qml
+PointingHandInteraction 1.0 PointingHandInteraction.qml
+RippleButton 1.0 RippleButton.qml
+RippleButtonWithIcon 1.0 RippleButtonWithIcon.qml
+StateLayer 1.0 StateLayer.qml
+StyledProgressBar 1.0 StyledProgressBar.qml
+StyledSwitch 1.0 StyledSwitch.qml
+StyledText 1.0 StyledText.qml
+ToolbarTabButton 1.0 ToolbarTabButton.qml
+WavyLine 1.0 WavyLine.qml
